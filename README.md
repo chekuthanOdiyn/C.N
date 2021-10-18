@@ -9,11 +9,11 @@
 <img src="Chekuthan Odiyn.jpg" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/Chekuthan Odiyn.666"><img title="Author" src="https://img.shields.io/badge/Author-jishnu-Chekuthan Odiyn?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=". Odiyn.666"><img title="Author" src="https://img.shields.io/badge/Author-jishnu-Chekuthan Odiyn?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chekuthan Odiyn.666">Chekuthan Odiyn.666</a> to make it public
+Project created by <a href=". Odiyn.666">Chekuthan Odiyn.666</a> to make it public
     <br>
        | © |
         Reserved |
@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/Chekuthan Odiyn.666">Chekuthan Od
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chekuthan Odiyn) 
+
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Chekuthan Odiyn.666">Chekuthan Od
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chekuthan Odiyn
+$ git clone . Odiyn
 $ cd Chekuthan Odiyn.666
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -49,7 +49,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chekuthan Odiyn
+$ git clone . Odiyn
 $ cd Chekuthan Odiyn.666
 $ npm i
 $ node julie.js
@@ -58,16 +58,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/chekuthanOdiyn/C.N">
+  <a href=".Odiyn/C.N">
     
-<a href="https://github.com/Chekuthan Odiyn.666/followers">
+<a href=". Odiyn.666/followers">
 <img src="https://img.shields.io/github/repo-size/Chekuthan Odiyn?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Chekuthan Odiyn.666/followers"
+<a href=". Odiyn.666/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Chekuthan Odiyn.666?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chekuthan Odiyn/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chekuthan Odiyn?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chekuthan Odiyn/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chekuthan Odiyn?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chekuthan Odiyn/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chekuthan Odiyn?label=Watchers&color=blue&style=flat-square"></a>
+<a href=". Odiyn/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chekuthan Odiyn?color=blue&style=flat-square"></a>
+<a href=". Odiyn/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chekuthan Odiyn?color=blue&style=flat-square"></a>
+<a href=". Odiyn/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chekuthan Odiyn?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -77,7 +77,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JyX9JtUNU1Q7ogrPddB3LI)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chekuthan Odiyn.666&repo=Chekuthan Odiyn.666&theme=nightowl)](https://github.com/Chekuthan Odiyn)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chekuthan Odiyn.666&repo=Chekuthan Odiyn.666&theme=nightowl)](. Odiyn)
   </div>
     
 ### ⚠ Warning ⚠
