@@ -34,7 +34,9 @@ Project created by <a href=". Odiyn.666">Chekuthan Odiyn.666</a> to make it publ
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
-  
+ 
+ https://dashboard.heroku.com/apps/chanthanodiyn/resources
+
 ### The Hard Method
 ```js
 GET QR
