@@ -96,14 +96,12 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Chekuthan Odiyn](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919656885197?text=Can%20you%20help%20bro)**
+**(http://wa.me/919656885197
 
-## Developers
+## jishnu
   <div align="center">
     
-  [![.](https://github.com/..png?size=100)](https://github.com/.) | [![Chekuthan Odiyn](https://github.com/Chekuthan Odiyn.666.png?size=100)](https://github.com/Chekuthan Odiyn.666) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----|----
-[.](https://github.com/.) | [Chekuthan Odiyn](https://github.com/Chekuthan Odiyn.666) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+
 
     
 
